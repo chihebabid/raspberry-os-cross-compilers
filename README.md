@@ -17,6 +17,6 @@ A `CMakefile` is provided with each toolchain.
 | **Raspberry Pi GCC 32-Bit Cross-Compiler Toolchain (Bookworm)** | Ubuntu 24.04 | Bookworm **32-bit OS** (Debian Version 12) only | - | [14.2.0][nc-bookworm32-2000] |
 
 [nc-bookworm64-1000]:https://www.embeddedsystems.tn/cross/cross-pi64_rpi3_ker6.6_gcc12.3.0.tar.gz
-[nc-bookworm32-2000]:https://www.embeddedsystems.tn/cross/cross-pi64_rpi3_ker6.6_gcc12.3.0.tar.gz
+[nc-bookworm32-2000]:https://www.embeddedsystems.tn/cross/cross_pi32_ker6.12_gcc14.2.0.tar.gz
 
 
